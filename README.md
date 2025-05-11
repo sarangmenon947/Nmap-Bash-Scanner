@@ -23,8 +23,8 @@ A beginner-friendly tool to automate basic network reconnaissance tasks using **
 - **Git & GitHub** – For version control and collaboration
 
 ## Screenshots
-https://postimg.cc/8sgqGz7V
-https://postimg.cc/ZvLPtcC0
-https://postimg.cc/ts4kbLdb
+1. https://postimg.cc/8sgqGz7V
+2. https://postimg.cc/ZvLPtcC0
+3. https://postimg.cc/ts4kbLdb
 
 ---
