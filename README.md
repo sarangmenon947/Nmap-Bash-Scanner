@@ -22,4 +22,9 @@ A beginner-friendly tool to automate basic network reconnaissance tasks using **
 - **Linux Shell** – Recommended execution environment
 - **Git & GitHub** – For version control and collaboration
 
+## Screenshots
+https://postimg.cc/8sgqGz7V
+https://postimg.cc/ZvLPtcC0
+https://postimg.cc/ts4kbLdb
+
 ---
